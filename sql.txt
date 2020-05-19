@@ -1,4 +1,4 @@
--- This query joins PhotoObj and SpecObj
+-- This query joins PhotoObj and SpecObj. http://skyserver.sdss.org/dr16/en/tools/search/sql.aspx
 
 SELECT TOP 500000
    p.objid,p.ra,p.dec,p.u,p.g,p.r,p.i,p.z,
